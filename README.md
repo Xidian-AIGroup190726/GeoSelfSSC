@@ -1,3 +1,3 @@
 # GeoSelfSSC
 
-Our code will be released soon!!
+Our code is released at [here](https://github.com/PuTeGuo/GeoSelfSSC-main)!
